@@ -7,9 +7,12 @@ I also am very interested in science in general, more specificaly biology. Not a
 
 Feel free to contact me!
 
-- 📫 How to reach me: {
+- 📫 How to reach me: { 
+
   'LinkedIn': https://www.linkedin.com/in/jo%C3%A3o-maroeli-dos-santos-645314196/,
+  
   'E-mail': maroelijoao@gmail.com
+  
 }
 
 <!--
