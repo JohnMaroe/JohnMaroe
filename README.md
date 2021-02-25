@@ -1,3 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Maroeli-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-maroeli-dos-santos-645314196/)](https://www.linkedin.com/in/jo%C3%A3o-maroeli-dos-santos-645314196/)
+[![Gmail Badge](https://img.shields.io/badge/-maroelijoao@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maroelijoao@gmail.com)](mailto:maroelijoao@gmail.com)
+
+
 ### Hey there 👋
 
 My name is João Maroeli from Brazil (:flag_br:). I've always been passionate by coding and technology in general, but just recently started working on it. I'm constantly amazed by what we can do in modern society, I really want to be able to learn an experience all I can.
