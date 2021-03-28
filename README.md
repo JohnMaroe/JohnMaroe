@@ -1,4 +1,8 @@
-Hey, fellow coder. 🐧
+# Hey there, fellow coder. 🐧
+
+<p align="center">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/JohnMaroe/JohnMaroe/master/.github/I'm.gif">
+</p>
 
 ![alt](https://raw.githubusercontent.com/JohnMaroe/JohnMaroe/master/.github/carbon.png)
 
@@ -33,8 +37,10 @@ How's it going?
 };
 -->
 
+<br /> <br />
+
 <p align="center">
-  <img width="600" height="350" src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif">
+  <img width="350" height="150" src="https://media.giphy.com/media/QWkuGmMgphvmE/giphy.gif">
 </p>
 
 <br />
